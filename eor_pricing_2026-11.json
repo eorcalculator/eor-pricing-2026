@@ -53,7 +53,7 @@
       "setup_fee": "not published",
       "deposit": "required, refundable: 1 month of salary",
       "minimums": "no minimum employees or contractors",
-      "pricing_page_indexable": false,
+      "pricing_page_indexable": true,
       "source": "https://www.playroll.com/pricing/employer-of-record",
       "checked": "2026-11-18"
     },
@@ -144,7 +144,7 @@
       "setup_fee": "no setup or onboarding fee",
       "deposit": "required, refundable, for every EOR employee",
       "minimums": null,
-      "pricing_page_indexable": false,
+      "pricing_page_indexable": true,
       "source": "https://www.oysterhr.com/pricing",
       "checked": "2026-11-18"
     }
