@@ -1,0 +1,12 @@
+provider,eor_usd_per_employee_month,price_basis,contractors_usd_month,contractor_of_record_usd_month,setup_fee,deposit,minimums,pricing_page_indexable,source,checked
+Payoneer,199,from,,,not published,not published,,True,https://www.payoneer.com/workforce-management/employer-of-record/,2026-11-18
+RemoFirst,199,from,25,,not published,not published,no minimum contract or headcount,True,https://www.remofirst.com/price,2026-11-18
+Skuad,199,from,19,99,not published,not published,no lock-in,True,https://www.skuad.io/pricing,2026-11-18
+Playroll,399,from,,,not published,"required, refundable: 1 month of salary",no minimum employees or contractors,False,https://www.playroll.com/pricing/employer-of-record,2026-11-18
+Multiplier Core,459,annual billing,40,400,implementation fee as applicable,not published,,True,https://www.usemultiplier.com/pricing,2026-11-18
+Papaya Global,499,from,199,,not published,not published,,True,https://www.papayaglobal.com/pricing/,2026-11-18
+Multiplier Growth,519,annual billing,40,400,implementation fee as applicable,not published,,True,https://www.usemultiplier.com/pricing,2026-11-18
+Deel,599,list price,49,325,not published,not published,,True,https://www.deel.com/pricing/,2026-11-18
+G-P (Globalization Partners),599,from,,,not published,not published,,True,https://www.globalization-partners.com/pricing/,2026-11-18
+Remote,599,annual billing,29,325,no setup or onboarding fee,no standard deposit; refundable reserve in some cases,,True,https://remote.com/pricing,2026-11-18
+Oyster,699,list price,29,,no setup or onboarding fee,"required, refundable, for every EOR employee",,False,https://www.oysterhr.com/pricing,2026-11-18
